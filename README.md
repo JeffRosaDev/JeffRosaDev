@@ -4,8 +4,9 @@
 
 Estudante de Engenharia de Software | Aspirante a Engenheiro de Dados
 
-Apaixonado por tecnologia, dados e automação. Desenvolvo projetos utilizando Python, SQL, PostgreSQL, Apache Airflow, Docker e ETL para aprimorar minhas habilidades e construir um portfólio sólido.
-
+Apaixonado por tecnologia, dados e automação. 
+Desenvolvo projetos utilizando Python, SQL, PostgreSQL, Apache Airflow, Docker e ETL.
+Para aprimorar minhas habilidades e construir um portfólio sólido.
 Foco em Engenharia de Dados, Automação e Análise de Dados.
 Em busca da primeira oportunidade na área de Dados.
 
